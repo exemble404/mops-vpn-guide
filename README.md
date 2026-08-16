@@ -8,4 +8,4 @@
 
     https://raw.githubusercontent.com/exemble404/mops-vpn-guide/main/<папка>/<шаг>.jpg
 
-Всего кадров: 83.
+Всего кадров: 84.
